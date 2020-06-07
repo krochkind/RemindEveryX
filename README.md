@@ -1,8 +1,8 @@
 # RemindEveryX
-Sends a text message on recurring events that occur on specific days of the week (ex. the first Saturday in April, every Wednseday in February)
+Sends a text message on recurring events that occur on specific days of the week (ex. the first Saturday in April, every Wednesday in February)
 
 ## Why?
-I don't know about you but I kept running into the situation where I had to do different tasks on different days of different months - like, change my house air filters the first Saturday of January and June.  Or trim my trees the last Saturday of February.  Usually, it was a things for me to do around the house, now that it was a weekend.  I also have over 20 fruit trees, and keeping track of which trees need fertilizing which months required my remebering to look at a google sheet every month.
+I don't know about you but I kept running into the situation where I had to do different tasks on different days of different months - like, change my house air filters the first Saturday of January and June.  Or trim my trees the last Saturday of February.  Usually, it was things for me to do around the house, now that it was a weekend.  I also have over 20 fruit trees, and keeping track of which trees need fertilizing which months required my remembering to look at a Google sheet every month.
 
 This wasn't working out... as evidence by my Peach curl (a disease that happens when you forget to spray your peach trees).  Could I have set up each of these monthly events as recurring annual appointments in Outlook?  Of course.  Could I have done this with cronjobs?  Yes.  But I thought, I could create a script that runs every day to look at a list of events and send me a text message reminder the tasks I needed to do that day.  That way, if I want to update any alerts, all I need to do is tweak a json file.  So I set it up on my Raspberry Pi as a cron job that runs every day at noon, and Bob's your uncle.
 
