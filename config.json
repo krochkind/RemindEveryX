@@ -1,9 +1,9 @@
 {
-    "gmail_login": "email.account@gmail.com",
-    "gmail_pwd": "PASSWORD",
+    "gmail_login": "<email@gmail.com>",
+    "gmail_pwd": "<gmail pwd>",
     "send_alerts_to": [
         {
-            "phone_number": "123-456-7890",
+            "phone_number": "<phone number>",
             "wireless_carrier": "Verizon"
         }
     ],
