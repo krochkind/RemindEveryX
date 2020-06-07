@@ -1,0 +1,19 @@
+{
+    "gmail_login": "email.account@gmail.com",
+    "gmail_pwd": "PASSWORD",
+    "send_alerts_to": [
+        {
+            "phone_number": "123-456-7890",
+            "wireless_carrier": "Verizon"
+        }
+    ],
+    "sms_codes": {
+        "AT&T": "txt.att.ne",
+        "Boost Mobile": "sms.myboostmobile.com",
+        "Sprint": "messaging.sprintpcs.com",
+        "T-Mobile": "tmomail.net",
+        "U.S. Cellular": "email.uscc.net",
+        "Verizon": "vtext.com",
+        "Virgin Mobile": "vmobl.com"
+    }
+}

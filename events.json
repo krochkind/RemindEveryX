@@ -1,0 +1,73 @@
+{
+    "January": {
+        "Sunday": {
+            "First": "",
+            "Last": "",
+            "Every": ""
+        },
+        "Monday": {},
+        "Tuesday": {},
+        "Wednesday": {},
+        "Thursday": {},
+        "Friday": {},
+        "Saturday": {
+            "First": "Change Air Filter"
+        }
+    },
+    "February": {
+        "Saturday": {
+            "First": "Fertilize Citrus",
+            "Last": "Prune Trees"
+        }
+    },
+    "March": {
+        "Saturday": {
+            "First": "Fertilize everything but citrus.  Spray peach & apricot"
+        }
+    },
+    "April": {
+        "Saturday": {
+            "First": "Fertilize pear, plum"
+        }
+    },
+    "May": {
+        "Saturday": {
+            "First": "Fertilize citrus, pomegranete, guava"
+        }
+    },
+    "June": {
+        "Saturday": {
+            "First": "Change Air Filter"
+        }
+    },
+    "July": {
+        "Saturday": {
+            "First": "Fertilize guava, stonefruit, avocado, fig, orange, loquat"
+        }
+    },
+    "August": {
+        "Saturday": {
+            "First": "Fertilize pomegranete"
+        }
+    },
+    "September": {
+        "Saturday": {
+            "First": "Fertilize citrus, guava"
+        }
+    },
+    "October": {
+        "Saturday": {
+            "First": "Fertilize avocado, pear"
+        }
+    },
+    "November": {
+        "Saturday": {
+            "First": "Fertilize guava.  Spray peach & apricot if 10% of leaves remain"
+        }
+    },
+    "December": {
+        "Saturday": {
+            "First": "Fertilize orange, tangerine"
+        }
+    }
+}
