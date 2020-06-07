@@ -1,5 +1,5 @@
 # RemindEveryX
-Sends a text message on recurring events that occur on specific days of the week (ex. The First Saturday of April, every Wednseday in February)
+Sends a text message on recurring events that occur on specific days of the week (ex. the first Saturday in April, every Wednseday in February)
 
 ## Why?
 I don't know about you but I kept running into the situation where I had to do different tasks on different days of different months - like, change my house air filters the first Saturday of January and June.  Or trim my trees the last Saturday of February.  Usually, it was a things for me to do around the house, now that it was a weekend.  I also have over 20 fruit trees, and keeping track of which trees need fertilizing which months required my remebering to look at a google sheet every month.
