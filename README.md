@@ -1,4 +1,4 @@
-# ReminderEveryX
+# RemindEveryX
 Sends a text message on recurring events that occur on specific days of the week (ex. The First Saturday of April, every Wednseday in February)
 
 ## Why?
